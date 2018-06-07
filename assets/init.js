@@ -8,6 +8,6 @@ $(function(){
 	buf.push('<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"1","bdPos":"right","bdTop":"100"}};with(document)0[(getElementsByTagName("head")[0]||body).appendChild(createElement("script")).src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion="+~(-new Date()/36e5)];</script>');
 	$('.footer-banner').html(buf.join(''));
 	/*头部导航*/
-	$('body').append('<div class="top-banner clearfix"><div class="fl"><a href="#">欢迎来到mirocast站点。 </a><a href="http://www.mirocast.com/">--->>主页<<---</a></div><div class="fr"><a href="#" >人生，越努力越幸运</a></div></div>');
+	$('body').append('<div class="top-banner clearfix"><div class="fl"><a href="#">欢迎来到mirocast站点。 </a><a href="http://www.mirocast.com/">--->>主页<<---</a></div><a href="http://www.taobao.com/">--->>淘宝<<---</a><a href="#">--->>产品<<---</a><div class="fr"><a href="#" >人生，越努力越幸运</a></div></div>');
 	
 });
